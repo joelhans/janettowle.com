@@ -1,0 +1,15 @@
+html
+  box-sizing: border-box
+
+*, *:before, *:after
+  box-sizing: inherit
+
+body
+  overflow-y: scroll
+  overflow-x: auto
+  background-color: $bg
+
+$susy : (columns: 12, gutters: .75, gutter-position: split )
+
+.container
+  @include container(50em)
