@@ -6,7 +6,7 @@
   ],
   "main": "index.html",
   "license": "MIT",
-  "homepage": "https://github.com/mblode/grav-theme-medium",
+  "homepage": "https://github.com/joelhans/janettowle.com",
   "dependencies": {
     "foundation-sites": "~6.1.0",
     "motion-ui": "~1.1.0",

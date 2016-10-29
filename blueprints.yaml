@@ -1,4 +1,4 @@
-name: Joel Hans
+name: Janet Towle
 version: 1.0
 description: A simple base theme built around Matthew Blode's Medium theme.
 icon: medium
@@ -6,8 +6,8 @@ author:
   name: Joel Hans
   email: joel.g.hans@gmail.com
   url: http://joelhans.com
-homepage: http://joelhans.com
-demo: http://joelhans.com
+homepage: http://janettowle.com
+demo: http://janettowle.com
 keywords: medium, theme, minimal, modern, fast, responsive, html5, css3, multilanguage
 bugs: https://github.com/getgrav/grav-theme-medium/issues
 license: MIT
